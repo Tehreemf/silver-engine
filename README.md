@@ -8,20 +8,6 @@
 - ⚡ Fun Fact: I love to Write ✍ Read 📖 & Travel 🧳
 - 😻 Check out the Blog collection I created: [Creative Edge](https://creativeedge30.blogspot.com/)
 
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Itehreemfatima5)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Itehreemfatima5)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tehreem-fatima-8803a122b/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tehreem-fatima-8803a122b/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/tehreem_030/?hl=en)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/tehreem_030/?hl=en)
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Tehreem Fatima's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
